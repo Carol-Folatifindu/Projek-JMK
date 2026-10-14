@@ -9,7 +9,7 @@ package projek.jmk;
  * @author LAB-C11
  */
 public class Number2 {
-    public static void num2({
-        System.out.println("Number 2");
+    public static void num2(){
+        System.out.println("number 2");
     }
 }
